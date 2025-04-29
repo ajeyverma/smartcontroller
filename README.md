@@ -1,9 +1,6 @@
-# smartcontroller
-An IoT-based smart system using Arduino and MIT App Inventor for automatic/manual control of LED, Fan, and Alarm using sensors and its application.
-
 # Smart Controller
 
-This project is an Arduino + MIT App Inventor-based smart home controller for LED, fan, and alarm control using sensors (LDR, PIR, Thermistor) and Bluetooth communication.
+This project is an Arduino + MIT App Inventor-based smart controller for LED, fan, and alarm control using sensors (LDR, PIR, Thermistor) and Bluetooth communication.
 
 ## Features
 - Automatic Mode: Sensor-based control
