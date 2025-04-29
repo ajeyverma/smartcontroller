@@ -1,4 +1,5 @@
-<img src="tree/main/Assets/logo.png" alt="Logo" width="40" style="vertical-align:middle;"/> ## Smart Home Controller
+<img src="https://raw.githubusercontent.com/ajeyverma/smartcontroller/main/Assets/logo.png" alt="Smart Home Logo" width="100"/> 
+
 
 This project is an Arduino + MIT App Inventor-based smart controller for LED, fan, and alarm control using sensors (LDR, PIR, Thermistor) and Bluetooth communication.
 
