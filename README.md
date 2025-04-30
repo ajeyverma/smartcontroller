@@ -22,7 +22,7 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
 - <a href="https://github.com/ajeyverma/smartcontroller/tree/main/Releases">Android App (MIT App Inventor) <a/>
 
 ## Files
-- <a href="/Arduino_Code.ino">`Arduino_Code.ino`<a/> – Arduino code
+- <a href="/blob/main/ARDUINO_CODE.ino">`Arduino_Code.ino`<a/> – Arduino code
 - `App/smartControllerV2.aia` – MIT App Inventor source file
 - `Presentation/Smart_Home_Controller_Presentation.pdf` – Project summary
 - `Images/userinterfacelight.jpg` – Screenshot of the mobile app UI
