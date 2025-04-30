@@ -19,10 +19,10 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
 - 3-Channel Relay Module
 - Bluetooth Module (HC-05)
 - AC-DC Converter (for power backup)
-- <a href="https://github.com/ajeyverma/smartcontroller/tree/main/Releases">Android App (MIT App Inventor) <a/>
+- <a href="https://github.com/ajeyverma/smartcontroller/tree/main/Releases" style="text-decoration: none;">Android App (MIT App Inventor) <a/>
 
 ## Files
-- <a href="/ARDUINO_CODE.ino">`Arduino_Code.ino`<a/> – Arduino code
+- <a href="/ARDUINO_CODE.ino" style="text-decoration: none;">`Arduino_Code.ino`<a/> – Arduino code
 - `App/smartControllerV2.aia` – MIT App Inventor source file
 - `Presentation/Smart_Home_Controller_Presentation.pdf` – Project summary
 - `Images/userinterfacelight.jpg` – Screenshot of the mobile app UI
