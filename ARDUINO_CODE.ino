@@ -1,4 +1,4 @@
-// Define sensor and relay pin numbers
+// Define sensor and relay pin numbers 
 #define LDR_PIN 2                // Digital pin for LDR (light sensor)
 #define THERMISTOR_PIN A3        // Analog pin for temperature sensor (e.g., LM35)
 #define PIR_PIN 4                // Digital pin for motion sensor (PIR)
