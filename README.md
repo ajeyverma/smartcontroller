@@ -26,7 +26,7 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
 - <a href="/ARDUINO_CODE.ino" style="text-decoration: none;">`Arduino_Code.ino`<a/> – Arduino code
 - <a href="/Assets/AppSource" style="text-decoration: none;">`Assets/AppSource`<a/> – MIT App Inventor source file
 - <a href="/Docs" style="text-decoration: none;">`Docs`<a/> – Project summary
-- <a href="/Assets/Screenshots" style="text-decoration: none;">`Assets/Screenshots`<a/>Images/userinterfacelight.jpg` – Screenshot of the mobile app UI
+- <a href="/Assets/Screenshots" style="text-decoration: none;">`Assets/Screenshots`<a/> – Screenshot of the mobile app UI
 
 ## How to Use
 1. Upload the Arduino code.
