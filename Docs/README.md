@@ -1,6 +1,6 @@
-# Smart Home Controller Overview
+# Smart Controller Overview
 
-## Smart Bluetooth-Based Home Controller
+## Smart Bluetooth-Based Controller
 
 **Introduction:**
 A compact, smart system using Arduino Nano, controlled via Bluetooth using a custom MIT App Inventor interface.
@@ -22,7 +22,7 @@ A compact, smart system using Arduino Nano, controlled via Bluetooth using a cus
 
 ---
 
-**Slide 2: App & Code Integration**
+**App & Code Integration**
 
 
 **App Functionality:**
