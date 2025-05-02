@@ -37,7 +37,7 @@
   <ol>
     <li>Go to <a href="https://appinventor.mit.edu/">MIT App Inventor</a>.</li>
     <li>Log in and click <strong>Projects &gt; Import project (.aia) from my computer</strong>.</li>
-    <li>Upload the <code>SmartController.aia</code> file.</li>
+    <li>Upload the <code>S.aia</code> file.</li>
     <li>Edit or build the app as needed.</li>
   </ol>
 
