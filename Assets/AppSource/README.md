@@ -1,10 +1,3 @@
-# MIT App Inventor souce code
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>App Source – MIT App Inventor</title>
-</head>
 <body>
 
   <h1>App Source – MIT App Inventor (.aia Files)</h1>
@@ -28,7 +21,6 @@
       <ul>
         <li>Shows device status (ON/OFF)</li>
         <li>Motion detected alert</li>
-        <li>Day/Night status</li>
         <li>Temperature display</li>
       </ul>
     </li>
@@ -36,7 +28,9 @@
 
   <h2>📂 File(s)</h2>
   <ul>
-    <li><code>SmartController.aia</code>: Complete app source for importing into MIT App Inventor.</li>
+    <li>Complete app source for importing into MIT App Inventor</li>
+    <li> <a href="/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
+    <li> <a href="/smartController_V2.aia"><code>smartController_V2.aia</code></a></li>
   </ul>
 
   <h2>🧩 How to Use</h2>
