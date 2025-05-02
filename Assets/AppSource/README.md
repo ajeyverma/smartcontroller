@@ -46,6 +46,7 @@
     <li><a href="https://appinventor.mit.edu/explore/ai2/support">MIT App Inventor Documentation</a></li>
     <li><a href="https://github.com/ajeyverma/smartcontroller">Main Project Repository</a></li>
   </ul>
-[Download SmartController_V1.aia](/Assets/AppSource/SmartController_V1.aia)
+  [Download SmartController.aia](https://github.com/ajeyverma/smartcontroller/raw/main/assets/appsource/SmartController_V1.aia)
+
 </body>
 </html>
