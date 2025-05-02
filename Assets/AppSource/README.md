@@ -30,7 +30,7 @@
   <ul>
     Complete app source for importing into MIT App Inventor
     <li> <a href="https://github.com/ajeyverma/smartcontroller/raw/refs/heads/main/Assets/AppSource/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
-    <li> <a href="https://github.com/ajeyverma/smartcontroller/raw/refs/heads/main/Assets/AppSource/smartController_V1.aia"><code>smartController_V2.aia</code></a></li>
+    <li> <a href="https://github.com/ajeyverma/smartcontroller/raw/refs/heads/main/Assets/AppSource/smartController_V2.aia"><code>smartController_V2.aia</code></a></li>
   </ul>
 
   <h2>🧩 How to Use</h2>
