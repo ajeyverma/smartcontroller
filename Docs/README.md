@@ -2,8 +2,6 @@
 
 ## Smart Bluetooth-Based Home Controller
 
-**Image:** ![Smart Home Logo](logo.png)
-
 **Introduction:**
 A compact, solar-powered smart home system using Arduino Nano, controlled via Bluetooth using a custom MIT App Inventor interface.
 
@@ -26,7 +24,6 @@ A compact, solar-powered smart home system using Arduino Nano, controlled via Bl
 
 **Slide 2: App & Code Integration**
 
-**Image:** ![App UI](userinterfacelight.jpg)
 
 **App Functionality:**
 - Bluetooth connection control
