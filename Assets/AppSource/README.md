@@ -29,8 +29,8 @@
   <h2>📂 File(s)</h2>
   <ul>
     Complete app source for importing into MIT App Inventor
-    <li> <a href="/Assets/AppSource/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
-    <li> <a href="/Assets/AppSource/smartController_V2.aia"><code>smartController_V2.aia</code></a></li>
+    <li> <a href="https://github.com/ajeyverma/smartcontroller/raw/refs/heads/main/Assets/AppSource/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
+    <li> <a href="[/Assets/AppSource/smartController_V2.aia](https://github.com/ajeyverma/smartcontroller/raw/refs/heads/main/Assets/AppSource/smartController_V1.aia)"><code>smartController_V2.aia</code></a></li>
   </ul>
 
   <h2>🧩 How to Use</h2>
@@ -46,7 +46,6 @@
     <li><a href="https://appinventor.mit.edu/explore/ai2/support">MIT App Inventor Documentation</a></li>
     <li><a href="https://github.com/ajeyverma/smartcontroller">Main Project Repository</a></li>
   </ul>
-  [Download SmartController.aia](https://github.com/ajeyverma/smartcontroller/raw/main/assets/appsource/SmartController_V1.aia)
 
 </body>
 </html>
