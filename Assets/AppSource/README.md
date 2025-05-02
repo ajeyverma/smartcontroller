@@ -29,8 +29,8 @@
   <h2>📂 File(s)</h2>
   <ul>
     <li>Complete app source for importing into MIT App Inventor</li>
-    <li> <a href="/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
-    <li> <a href="/smartController_V2.aia"><code>smartController_V2.aia</code></a></li>
+    <li> <a href="/Assets/AppSource/smartController_V1.aia"><code>smartController_V1.aia</code></a></li>
+    <li> <a href="/Assets/AppSource/smartController_V2.aia"><code>smartController_V2.aia</code></a></li>
   </ul>
 
   <h2>🧩 How to Use</h2>
