@@ -1,3 +1,4 @@
+# Smart Controller
 <img src="https://raw.githubusercontent.com/ajeyverma/smartcontroller/main/Assets/AppSource/app_logo.png" alt="Smart Home Logo" width="100"/> 
 
 
