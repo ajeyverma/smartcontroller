@@ -28,10 +28,6 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
 - <a href="/Docs" style="text-decoration: none;">`Docs`<a/> – Project summary
 - <a href="/Assets/Screenshots" style="text-decoration: none;">`Assets/Screenshots`<a/>Images/userinterfacelight.jpg` – Screenshot of the mobile app UI
 
-## How to Use
-1. Upload the Arduino code.
-2. Import `.aia` into MIT App Inventor to build your app.
-3. Connect your Android device to the Bluetooth module.
-4. Use the app to control appliances or let sensors take over.
+
 
 
