@@ -31,7 +31,7 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
    ( <i>In case of any modication, Use App Source </i> )
 
 ## How to Use
-1. Construct the circuit by following the steps in the <a href="/Docs">documentation</a>.
+1. Construct the circuit by following the steps in the <a href="/Docs/Setup.md">documentation</a>.
 2. Upload the <a href="/ARDUINO_CODE.ino" style="text-decoration: none;">Arduino code</a>.
 3. Install app present in <a href="/Releases" style="text-decoration: none;">Release<a/>.
 4. Connect your Android device to the Bluetooth module.
