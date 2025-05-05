@@ -13,7 +13,7 @@ This project is an Arduino + MIT App Inventor-based smart controller for LED, fa
 - Live status updates and real-time temperature display
 
 ## Components Used
-- Arduino Uno
+- Arduino 
 - LDR
 - PIR Motion Sensor
 - Thermistor (LM35)
